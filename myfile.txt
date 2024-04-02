@@ -2,3 +2,4 @@
 easy git commands
 add: index registration
 commit: history recording
+merge : issue2 and issue3
