@@ -1,6 +1,5 @@
 2024711742
 easy git commands
-pull_test_2
 pull_test_1
 add: index registration
 commit: history recording
